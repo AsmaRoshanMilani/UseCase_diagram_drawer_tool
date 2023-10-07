@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="730.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <AnchorPane layoutX="495.0" layoutY="300.0" prefHeight="118.0" prefWidth="138.0" style="-fx-background-image: url('C:/Users/ASUS/OneDrive/Pictures/actor.png'); -fx-background-size: contain; -fx-background-repeat: no-repeat;">
+            <children>
+                <CheckBox layoutX="110.0" layoutY="4.0" mnemonicParsing="false" />
+                <Label layoutX="55.0" layoutY="95.0" text="Actor" />
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>
